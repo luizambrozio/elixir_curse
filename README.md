@@ -19,3 +19,15 @@ Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_do
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/cards](https://hexdocs.pm/cards).
 
+para rodar
+iex -S mix
+
+para Documentation instalamos o {:ex_doc, "~> 0.12"},
+para instalar uma dependencia colocamos ela no mix.exs nas desp
+para gerar os docs
+mix docs
+
+para instalar mix deps.get
+
+
+manager elixr "asdf"
